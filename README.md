@@ -1,16 +1,23 @@
-# tv_series_app
 
-A new Flutter project.
+# TVSeries App - Dicoding
 
-## Getting Started
+Application that displays TV series information using the Flutter framework. This repository is one of the tasks to get a certificate in Learning to Make Flutter Applications for Beginners.
 
-This project is a starting point for a Flutter application.
+## How to Run
 
-A few resources to get you started if this is your first Flutter project:
+this project use [Flutter 3.13.4](https://flutter.dev/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+clone this project and run this command in the project path.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
+
+## Screenshots
+
+<p align="center">
+  <img src="ss/ss_detail.png" width="270">
+  <img src="ss/ss_home.png" width="270">
+</p>
+
