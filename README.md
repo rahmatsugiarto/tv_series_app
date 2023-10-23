@@ -1,3 +1,5 @@
+<img src="readme_assets/preview.png">
+
 
 # TVSeries App - Dicoding
 
