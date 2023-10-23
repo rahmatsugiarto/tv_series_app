@@ -16,10 +16,3 @@ flutter pub get
 flutter run
 ```
 
-## Screenshots
-
-<p align="center">
-  <img src="ss/ss_detail.png" width="270">
-  <img src="ss/ss_home.png" width="270">
-</p>
-
